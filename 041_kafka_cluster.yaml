@@ -4,7 +4,7 @@ metadata:
   name: alliander-kafka-cluster
 spec:
   kafka:
-    version: 2.2.1
+    version: 2.1.1
     replicas: 3
     listeners:
       plain: {}
